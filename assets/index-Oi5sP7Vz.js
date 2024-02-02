@@ -518,6 +518,7 @@ Error generating stack: `+i.message+`
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-color: var(--bg-color);
     .animate {
         position: absolute;
         top: 0;
@@ -612,6 +613,7 @@ Error generating stack: `+i.message+`
             video {
                 width: 100%;
                 height: 100%;
+                border-radius: 50%;
             }
         }
         .github {
