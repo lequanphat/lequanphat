@@ -10,13 +10,13 @@
 
 🔭 Welcome my site 👉 [lequanphat.id.vn](https://lequanphat.id.vn)
 
-🌱 I’m currently learning **Docker, Nginx,...**
+🌱 Currently exploring **AWS, FLutterFlow,...**
 
-💬 Ask me about **ReactJS, NestJS... or anything**
+💬 Ask me about **ReactJS, NestJS,... or anything**
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,php,vscode,linux,github,git,docker,vite,googlecloud" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,django,laravel,spring,net,graphql,mui,tailwind,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,php,dart,github,googlecloud,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=mui,tailwind,react,nextjs,nodejs,express,nestjs,spring,laravel,flutter,graphql" /><br>
 </div>
