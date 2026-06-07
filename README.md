@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🔭 Welcome my site 👉 [lequanphat.id.vn](https://lequanphat.id.vn)
+🔭 Welcome my site 👉 [quanphatdev](https://lequanphat.github.io/lequanphat/)
 
 🌱 Currently exploring **AWS, FLutterFlow,...**
 
